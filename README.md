@@ -26,7 +26,7 @@ The Daily Weather Application provides users with a 7-day weather forecast for a
 
 ### Important Link
 <hr/>
-<li> Github:https://github.com/NaimunNahar14/Daily-Weather </li>
+<li> Github:https: //github.com/NaimunNahar14/Daily-Weather </li>
 <li>Live: https://naimunnahar14.github.io/Daily-Weather/ </li>
 
    
