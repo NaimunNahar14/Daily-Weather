@@ -18,9 +18,15 @@ The Daily Weather Application provides users with a 7-day weather forecast for a
 - JavaScript
 - Weather API (e.g., [WeatherAPI](https://weatherapi.com/))
 
-## Installation
+### Hosting Configuration
+<hr/>
+<ul>
+<li>Github</li>
+</ul>
 
-1. Clone the repository:
-   ```bash
-  <li>Live: [daily weather](https://naimunnahar14.github.io/Daily-Weather/) </li>
+### Important Link
+<hr/>
+<li> Github:https://github.com/NaimunNahar14/Daily-Weather </li>
+<li>Live: https://naimunnahar14.github.io/Daily-Weather/ </li>
+
    
