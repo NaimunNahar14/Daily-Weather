@@ -22,5 +22,5 @@ The Daily Weather Application provides users with a 7-day weather forecast for a
 
 1. Clone the repository:
    ```bash
-   git clone https: [Daily-Weather](https://naimunnahar14.github.io/Daily-Weather/)
+   git clone https: [Daily-Weather](https://naimunnahar14.github.io/Daily-Weather/).
    
