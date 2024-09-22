@@ -1,6 +1,6 @@
 body {
-    background-image: url('/images/background-image.jpg');
-    background-size: cover; 
+    background-image: url('../images/background-image.jpg');
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     color: white;
@@ -93,8 +93,8 @@ button:hover {
 
 .forecast img {
     vertical-align: middle;
-    width: 80px; 
-    height: 80px; 
+    width: 80px;
+    height: 80px;
 }
 
 .forecast h3 {
@@ -126,17 +126,24 @@ button:hover {
     border-top-color: transparent;
     animation: spin 0.7s linear infinite;
 }
+
 label {
-    color: black; 
-    font-size: 16px; 
+    color: black;
+    font-size: 16px;
 }
+
 h2 {
-    color: black; 
+    color: black;
 }
 
 @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 #recent-searches {
@@ -157,7 +164,7 @@ h2 {
     input[type="text"] {
         width: 60%;
     }
-    
+
     .forecast {
         flex-direction: column;
         text-align: center;
@@ -168,7 +175,7 @@ h2 {
     input[type="text"] {
         width: 50%;
     }
-    
+
     .forecast {
         font-size: 14px;
     }
